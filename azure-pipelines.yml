@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  name: Pool1
+  name: Hosted Agent
 
 stages:
 - stage: Build_Stage
